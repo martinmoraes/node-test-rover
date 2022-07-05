@@ -22,7 +22,8 @@ class MoveRover {
                                                 roverParams[1], 
                                                 DIRECTION[roverParams[2]], 
                                                 roverParams[3], 
-                                                roverParams[4])
+                                                roverParams[4],
+                                                rovers)
             rovers.push(rover)
             
             for(const instruction of instructions) {
