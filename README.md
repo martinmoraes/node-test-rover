@@ -8,6 +8,7 @@
 ```
 $ git clone https://github.com/martinmoraes/node-test-rover
 $ cd node-test-rover
+$ npm install
 $ npm run moverover firstinput.txt
 ```
 
